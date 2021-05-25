@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lanzshot
+- 👋 Hi, I’m Zheng Sheng or Lanzshot
 - 👀 I’m interested in Games, TCG, 
-- 🌱 I’m currently learning GO Lang
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning GO Lang.
+- 📫 How to reach me @ Lanzshot@hotmail.com. Use your email FYI.
 
 <!---
 Lanzshot/Lanzshot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
