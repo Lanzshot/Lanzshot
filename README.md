@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zheng Sheng or Lanzshot
-- 👀 I’m interested in Games, TCG, 
-- 🌱 I’m currently learning GO Lang.
+- 👋 Hi, I’m Zheng Sheng or Lanzshot or Lanzs
+- 👀 I’m interested in PC console Games, TCG, photography, gardening... etc
+- 🌱 I’m currently learning GO Lang. Love the ease of using xls macro for tools support.
 - 📫 How to reach me @ Lanzshot@hotmail.com. Use your email FYI.
 
 <!---
